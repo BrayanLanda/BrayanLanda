@@ -42,6 +42,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=Angular)&nbsp;
   ![Java](https://img.shields.io/badge/-SpringBoot-0D1117?style=flat&logo=spring-boot)&nbsp;
   ![.Net](https://img.shields.io/badge/-.Net-0D1117?style=flat&logo=.net)&nbsp;
   ![Postman](https://img.shields.io/badge/-postman-0D1117?style=flat&logo=postman)&nbsp;
