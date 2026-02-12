@@ -2,7 +2,7 @@
  <br>
 
  <!--Start Intro-->               
-<p align="left">I am passionate about technology and software development, always eager to learn and grow as a professional. I specialize in building applications using modern technologies such as .NET, SpringBoot, React, Angular, and databases like MySQL and PostgreSQL. Additionally, I enjoy tackling technical challenges, adopting best development practices, and creating well-structured, functional projects. My goal is to combine creativity and efficiency to deliver innovative solutions that make an impact. </p>
+<p align="left">I am passionate about technology and software development, always eager to learn and grow as a professional. I specialize in building applications using modern technologies such as .NET, SpringBoot, NestJs, Angular, and databases like MySQL, SQLServer and PostgreSQL. Additionally, I enjoy tackling technical challenges, adopting best development practices, and creating well-structured, functional projects. My goal is to combine creativity and efficiency to deliver innovative solutions that make an impact. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
