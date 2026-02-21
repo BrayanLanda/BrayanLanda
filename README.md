@@ -20,19 +20,6 @@
 ---
 <br />
 
-📈 My Github stats <br />
-<div>
- <a href="https://github.com/BrayanLanda">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=BrayanLanda&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/BrayanLanda">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanLanda&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
-
-<br />
-
-<div>
 
   ## 🛠️ &nbsp;My Tech Stacks
 
