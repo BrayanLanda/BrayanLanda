@@ -17,9 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=BrayanLanda9&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="BrayanLanda" style="padding-right:20px;" />
 </p>
 
----
 <br />
-
 
   ## 🛠️ &nbsp;My Tech Stacks
 
