@@ -17,6 +17,10 @@
   <img src="https://komarev.com/ghpvc/?username=BrayanLanda9&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="BrayanLanda" style="padding-right:20px;" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanLanda9&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Brayan's Top Langs" />
+</p>
+
 <br />
 
   ## 🛠️ &nbsp;My Tech Stacks
