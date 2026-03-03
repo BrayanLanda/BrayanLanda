@@ -21,15 +21,15 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanlanda9&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanLanda&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=brayanlanda9&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas de GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=BrayanLanda&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas de GitHub" />
       </td>
     </tr>
   </table>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayanlanda9&theme=vision-friendly-dark&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanLanda&theme=vision-friendly-dark&hide_border=true" alt="Racha de contribuciones" />
 </div>
 <br />
 
