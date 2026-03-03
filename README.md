@@ -17,11 +17,19 @@
   <img src="https://komarev.com/ghpvc/?username=BrayanLanda9&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="BrayanLanda" style="padding-right:20px;" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanLanda9&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Brayan's Top Langs" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanLanda9&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Brayan's GitHub Stats" />
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanLanda9&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Brayan's Top Langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BrayanLanda9&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Brayan's GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanLanda9&theme=vision-friendly-dark&hide_border=true" alt="Brayan's Streak" />
 </p>
 <br />
 
