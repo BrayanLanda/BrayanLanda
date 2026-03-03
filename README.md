@@ -20,7 +20,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanLanda9&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Brayan's Top Langs" />
 </p>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrayanLanda9&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Brayan's GitHub Stats" />
+</p>
 <br />
 
   ## 🛠️ &nbsp;My Tech Stacks
