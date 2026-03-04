@@ -18,11 +18,15 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanLanda&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Mis Lenguajes" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrayanLanda&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10" alt="Top Langs" />
+  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanLanda&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas GitHub" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrayanLanda&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
+  
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanLanda&theme=vision-friendly-dark&hide_border=true" alt="Mi Racha" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanLanda&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 <br />
 
