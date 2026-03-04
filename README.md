@@ -44,7 +44,7 @@
   ![Postman](https://img.shields.io/badge/-postman-0D1117?style=flat&logo=postman)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
-  ![MongoDD](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
