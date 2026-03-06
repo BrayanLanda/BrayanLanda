@@ -10,9 +10,7 @@
 - 💁‍♂️ I enjoy sharing knowledge and collaborating on meaningful projects.
 - ✍ Currently delving into frameworks like React, Angular, and Next.js, as well as backend development with .NET, SpringBoot and databases like MySQL, PostgreSQL and MongoDB.
 - ❤ Inspired by the community and driven to contribute to impactful projects.
-<!--End Intro-->
 
-<!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=BrayanLanda9&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="BrayanLanda" style="padding-right:20px;" />
 </p>
